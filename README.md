@@ -4,7 +4,7 @@ Just a little project I get to work on during quarantine days. Program is open s
 # Program Info
 This program randomizes the input that you put in. Simple :D
 
-# Versions
+# OS
 Currently only works on Windows 10 64bit. 
 
 # Development
